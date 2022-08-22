@@ -34,7 +34,7 @@ export default function Header() {
             </div>
           </li>
           <li className="nav-item color ">
-            <Link className="nav-link" to=""><span><img src={man} alt=''/></span> Trekking <span className="sr-only">(current)</span></Link>
+            <Link className="nav-link" to="/Sharepal"><span><img src={man} alt=''/></span> Trekking <span className="sr-only">(current)</span></Link>
           </li>
           <li className="nav-item color">
             <Link className="nav-link" to="riding"><span><img src={bike} alt='...'/></span>Riding</Link>

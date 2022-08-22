@@ -11,7 +11,7 @@ function App() {
       <Header />
       <Secondpart />
       <Routes>
-        <Route path="/" element={ <Maincard
+        <Route path="/Sharepal" element={ <Maincard
         title1="Trekking Shoes"
         title2="Trekking Jacket"
         title3="Backpacks"
