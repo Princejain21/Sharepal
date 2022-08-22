@@ -1,0 +1,134 @@
+.card{
+    cursor: pointer !important;
+}
+.msg{
+    border-radius: 2rem !important;
+    text-align: center;
+}
+/* trekking */
+.trek1{
+background: url('../Asset/trekking/shoes.webp') no-repeat  center !important;
+background-size: 100% !important ;
+}
+.trek2{
+    background: url('../Asset/trekking/yellow_jacket.webp') no-repeat center !important;
+background-size: 100% !important ;
+
+}
+.trek3{
+    background: url('../Asset/trekking/bag.webp') no-repeat center !important;
+    background-size: 100% !important;
+}
+.trek4{
+    background: url('../Asset/trekking/stick.webp') no-repeat center !important;
+background-size: 100% !important ;
+
+}
+/* riding */
+.ride1{
+    background: url('../Asset/riding/first.webp') no-repeat center !important;
+    background-size: 100% !important;
+}
+.ride2{
+    background: url('../Asset/riding/second.webp') no-repeat center !important;
+    background-size: 100% !important;
+}
+.ride3{
+    background: url('../Asset/riding/third.webp') no-repeat center !important;
+    background-size: 100% !important;
+
+}
+.ride4{
+    background: url('../Asset/riding/fourth.webp') no-repeat center !important;
+    background-size: 100% !important;
+}
+/* gopro */
+.go1{
+    background: url('../Asset/gopro/first.webp') no-repeat center !important;
+    background-size: 100% !important;
+
+}
+.go2{
+    background: url('../Asset/gopro/second.webp') no-repeat center !important;
+    background-size: 100% !important;
+
+}
+.go3{
+    background: url('../Asset/gopro/third.webp') no-repeat center !important;
+    background-size: 100% !important;
+
+}
+.go4{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/4_Fj2ZtM5tj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660136554334') no-repeat center !important;
+    background-size: 100% !important;
+
+}
+.go5{
+    background: url('../Asset/gopro/fifth.webp') no-repeat center !important;
+    background-size: 100% !important;
+
+}
+.go6{
+    background: url('../Asset/gopro/six.webp') no-repeat center !important;
+    background-size: 100% !important;
+
+}
+
+/* dslr */
+.dslr1{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/14_2kMUWsQJF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660136557475') no-repeat center !important;
+    background-size: 100% !important;
+}
+.dslr2{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/15_KUjZVGq06.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660136558464') no-repeat center !important;
+    background-size: 100% !important;
+    
+}
+.dslr3{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/16_2jSQ1grg7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660136558502') no-repeat center !important;
+    background-size: 100% !important;
+}
+.dslr4{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/17_pDHo5Geld.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660136558638') no-repeat center !important;
+    background-size: 100% !important;
+}
+/* box */
+.box1{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/18_aU2fp1IxTO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660136558983') no-repeat center !important;
+    background-size: 100% !important;
+
+}
+.box2{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/19_tk8AYwoGN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660136559304') no-repeat center !important;
+    background-size: 100% !important;
+}
+.box3{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/20_CbmZ9imc8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660136559612') no-repeat center !important;
+    background-size: 100% !important;
+}
+/* games */
+.game1{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/sports_hLq1bELkkJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660927424095') no-repeat center !important;
+    background-size: 100% !important;
+}
+
+.game2{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/rpg_pTSAiihUU.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660927424111') no-repeat center !important;
+    background-size: 100% !important;
+}
+.game3{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/shooting_Ac29v_u1Ju.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660927424116') no-repeat center !important;
+    background-size: 100% !important;
+}
+.game4{
+     background: url('https://ik.imagekit.io/faskf16pg/sub_category/action-adventure_WwPESyYcr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660927424118') no-repeat center !important;
+    background-size: 100% !important;
+}
+.game5{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/racing_4_9dGxvQO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660927424117') no-repeat center !important;
+    background-size: 100% !important;
+}
+.game6{
+    background: url('https://ik.imagekit.io/faskf16pg/sub_category/action-adventure_WwPESyYcr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660927424118') no-repeat center !important;
+    background-size:"cover" !important;
+}

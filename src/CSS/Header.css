@@ -1,0 +1,21 @@
+.color{
+    border: 2px solid black !important;
+    border-radius: 2rem !important;
+    margin: 0px 8px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.color a,.showColor{
+    color: #091747 !important;
+    padding: 0;
+}
+.color a span img{
+    width: 27px;
+    padding-right: 3px;
+}
+.nav-link{
+    cursor: pointer !important;
+}
