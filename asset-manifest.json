@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Sharepal/static/css/main.99027b0d.css",
+    "main.js": "/Sharepal/static/js/main.45776b6e.js",
+    "static/js/787.c4127d89.chunk.js": "/Sharepal/static/js/787.c4127d89.chunk.js",
+    "static/media/logo.svg": "/Sharepal/static/media/logo.eb08a58727b9ec473c1e41f109c3a9fc.svg",
+    "static/media/shoes.webp": "/Sharepal/static/media/shoes.a01220e641fb7db9436d.webp",
+    "static/media/second.webp": "/Sharepal/static/media/second.db140c4e4de36ad77d8d.webp",
+    "static/media/fourth.webp": "/Sharepal/static/media/fourth.fa241ed2ecef7ad2d4e1.webp",
+    "static/media/third.webp": "/Sharepal/static/media/third.a80f1ccba86e73c293e9.webp",
+    "static/media/yellow_jacket.webp": "/Sharepal/static/media/yellow_jacket.3fb1a7a2ef7c14dfa8c5.webp",
+    "static/media/fifth.webp": "/Sharepal/static/media/fifth.e62b2df83617e3196ee4.webp",
+    "static/media/first.webp": "/Sharepal/static/media/first.73d7851e85f539e38c4a.webp",
+    "static/media/stick.webp": "/Sharepal/static/media/stick.76778dd65d251d9abc1f.webp",
+    "static/media/bag.webp": "/Sharepal/static/media/bag.73a62070a4a102890d86.webp",
+    "static/media/six.webp": "/Sharepal/static/media/six.1521d1bab590e25ebe27.webp",
+    "index.html": "/Sharepal/index.html",
+    "main.99027b0d.css.map": "/Sharepal/static/css/main.99027b0d.css.map",
+    "main.45776b6e.js.map": "/Sharepal/static/js/main.45776b6e.js.map",
+    "787.c4127d89.chunk.js.map": "/Sharepal/static/js/787.c4127d89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99027b0d.css",
+    "static/js/main.45776b6e.js"
+  ]
+}
